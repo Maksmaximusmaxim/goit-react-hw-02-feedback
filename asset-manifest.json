@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Maksmaximusmaxim/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/Maksmaximusmaxim/goit-react-hw-02-feedback/static/js/main.07d3183d.js",
+    "main.js": "/Maksmaximusmaxim/goit-react-hw-02-feedback/static/js/main.881fdd41.js",
     "index.html": "/Maksmaximusmaxim/goit-react-hw-02-feedback/index.html",
     "main.7acaea2f.css.map": "/Maksmaximusmaxim/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Maksmaximusmaxim/goit-react-hw-02-feedback/static/js/main.07d3183d.js.map"
+    "main.881fdd41.js.map": "/Maksmaximusmaxim/goit-react-hw-02-feedback/static/js/main.881fdd41.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.881fdd41.js"
   ]
 }
